@@ -1,0 +1,27 @@
+body{
+    background-color: #212529;
+}
+
+.question_mark{
+    color: #ffffff;
+    text-align: center;
+    font-size: 200px;
+    font-family: 'Alfa Slab One', cursive; font-size: 1750%;
+}
+
+@media (min-width:960px){
+    .question_mark{
+        color: #ffffff;
+        text-align: center;
+        font-size: 200px;
+        font-family: 'Alfa Slab One', cursive; font-size: 1750%;
+    }
+}
+
+@media (max-width:960px){
+    .question_mark{
+        color: #ffffff;
+        text-align: center;
+        font-family: 'Alfa Slab One', cursive; font-size: 350%;
+    }
+}

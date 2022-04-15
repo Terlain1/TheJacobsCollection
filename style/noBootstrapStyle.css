@@ -1,0 +1,28 @@
+@media (min-width:960px){
+    .img{
+        width: 10%;
+        height: auto;
+        margin: 2%;
+    }
+
+    .img_z{
+        width: 3%;
+        height: auto;   
+        margin: 2%;
+        }
+    }
+
+@media (max-width:960px){
+    .img{
+        width: 30%;
+        height: auto;
+        margin-left: 6%;    }
+
+    .img_z{
+        width: 10%;
+        height: auto;   
+        margin-left: 5%;
+        }
+    }
+
+
